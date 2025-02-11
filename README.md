@@ -88,11 +88,6 @@ graph LR
 - 📱 Mobile: [+44 (0)7540 298 709](tel:+447540298709)
 - 🔗 LinkedIn: [Warwick Brown](https://www.linkedin.com/in/warwick-brown-1a66a58)
 - 💻 GitHub: [@warwickbrownteya](https://github.com/warwickbrownteya)
-- 📝 Blog: [Security Insights](https://medium.com/@warwickbrown)
-
-## 📊 GitHub Activity
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=warwickbrownteya&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=warwickbrownteya&layout=compact&theme=radical)
 
 #infosec #cybersecurity #fintech #cloudsecurity #devsecops #securityengineering #pcidss
 
