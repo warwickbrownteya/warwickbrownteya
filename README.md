@@ -48,14 +48,18 @@ Tech Stack:
 
 ## 🧠 Modeling & Reasoning
 - Semantic and ontological modeling, engineering, and reasoning
+- Ontological requirements engineering with AI-assisted formal proofs (e.g., Coq, EYE), written, tested, and attested
 - Advanced algebra for detection logic
 - Learning formal provers and Rete-based reasoning systems
+
+## 🧰 Engineering Approach
+- Polyglot programming with AI-assisted code generation and validation, grounded in review, tests, and QA
 
 ## 📚 Featured Projects & Contributions
 
 ### 🛡️ Security Automation Framework
 - Developed comprehensive security automation using IaC
-- Tech: Infrastructure as code, cloud platforms, Python
+- Tech: Infrastructure as code, cloud platforms, programming
 
 ### 🔍 Enhanced Detection Engineering
 - Created custom threat detection rules
