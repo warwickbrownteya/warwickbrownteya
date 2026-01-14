@@ -26,37 +26,34 @@ Security Domains:
 
 Tech Stack:
   Cloud Platforms:
-    - AWS
-    - GCP
-    - Azure
+    - Major cloud providers
   Security Tools:
-    - HashiCorp Vault
-    - CloudFlare
-    - CrowdStrike
+    - Secrets management
+    - Edge security/CDN
+    - Endpoint protection
   Infrastructure:
-    - Terraform
-    - Docker
-    - Kubernetes
+    - Infrastructure as code
+    - Containers
+    - Orchestration
   Monitoring:
-    - ELK Stack
-    - Splunk
-    - Prometheus/Grafana
+    - SIEM platforms
+    - Metrics and observability
 ```
 
 ## 🌱 Current Learning Goals
-1. Advancing Zero Trust Architecture implementation
-2. Enhancing Cloud-Native security patterns
-3. Exploring AI/ML in Security Operations
+1. Advancing information safety practices that make security a byproduct
+2. Designing resilient, humane systems with safe defaults and soft landings
+3. Exploring how safety-focused engineering reduces security risk
 
 ## 📚 Featured Projects & Contributions
 
 ### 🛡️ Security Automation Framework
 - Developed comprehensive security automation using IaC
-- Tech: Terraform, AWS, Python
+- Tech: Infrastructure as code, cloud platforms, Python
 
 ### 🔍 Enhanced Detection Engineering
 - Created custom threat detection rules
-- Tech: Splunk, Set Logic, Semantics
+- Tech: SIEM platforms, detection logic, analytics
 
 ### 🔐 PCI-DSS Compliance Toolkit
 - Built automated compliance checking tools
@@ -84,8 +81,6 @@ graph LR
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Expert-purple)
 
 ## 📫 Connect With Me
-- 📧 Email: warwick.brown@teya.com
-- 📱 Mobile: [+44 (0)7540 298 709](tel:+447540298709)
 - 🔗 LinkedIn: [Warwick Brown](https://www.linkedin.com/in/warwick-brown-1a66a58)
 - 💻 GitHub: [@warwickbrownteya](https://github.com/warwickbrownteya)
 
