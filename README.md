@@ -14,6 +14,7 @@ Senior Security Engineer at Teya
 - 🛡️ Managing PCI-DSS compliance implementation and maintenance
 - 🔒 Developing robust security engineering solutions
 - 📊 Leading security metrics and monitoring initiatives
+- 🧭 Acting lead for security engineering, reporting to the CISO as acting head/director
 
 ## 👀 Professional Focus & Expertise
 ```yaml
@@ -26,37 +27,47 @@ Security Domains:
 
 Tech Stack:
   Cloud Platforms:
-    - AWS
-    - GCP
-    - Azure
+    - Major cloud providers
   Security Tools:
-    - HashiCorp Vault
-    - CloudFlare
-    - CrowdStrike
+    - Secrets management
+    - Edge security/CDN
+    - Endpoint protection
   Infrastructure:
-    - Terraform
-    - Docker
-    - Kubernetes
+    - Infrastructure as code
+    - Containers
+    - Orchestration
   Monitoring:
-    - ELK Stack
-    - Splunk
-    - Prometheus/Grafana
+    - SIEM platforms
+    - Metrics and observability
 ```
 
 ## 🌱 Current Learning Goals
-1. Advancing Zero Trust Architecture implementation
-2. Enhancing Cloud-Native security patterns
-3. Exploring AI/ML in Security Operations
+1. Advancing information safety practices that make security a byproduct
+2. Designing resilient, humane systems with safe defaults and soft landings
+3. Leaning into AI/ML usage and understanding so I'm not left behind as adversaries adopt it
+4. Exploring how safety-focused engineering reduces security risk
+
+## 🧠 Modeling & Reasoning
+- Semantic and ontological modeling, engineering, and reasoning
+- Ontological requirements engineering with AI-assisted formal proofs (e.g., Coq, EYE), written, tested, and attested
+- Advanced algebra for detection logic
+- Learning formal provers and Rete-based reasoning systems
+
+## 🧰 Engineering Approach
+- Polyglot programming with AI-assisted code generation and validation, grounded in review, tests, and QA
 
 ## 📚 Featured Projects & Contributions
 
 ### 🛡️ Security Automation Framework
 - Developed comprehensive security automation using IaC
-- Tech: Terraform, AWS, Python
+- Tech: Infrastructure as code, cloud platforms, programming
 
 ### 🔍 Enhanced Detection Engineering
 - Created custom threat detection rules
-- Tech: Splunk, Set Logic, Semantics
+- Tech: SIEM platforms, detection logic, analytics
+- Implementing formalized bespoke semantic detection engineering since 2013
+- Can build a minimal SIEM on the back of a cigarette packet (for a single event)
+- Believe a SIEM should be an alarm receiving center focused on actionable alerts, with observability retaining the data lake
 
 ### 🔐 PCI-DSS Compliance Toolkit
 - Built automated compliance checking tools
@@ -84,8 +95,6 @@ graph LR
 ![DevSecOps](https://img.shields.io/badge/DevSecOps-Expert-purple)
 
 ## 📫 Connect With Me
-- 📧 Email: warwick.brown@teya.com
-- 📱 Mobile: [+44 (0)7540 298 709](tel:+447540298709)
 - 🔗 LinkedIn: [Warwick Brown](https://www.linkedin.com/in/warwick-brown-1a66a58)
 - 💻 GitHub: [@warwickbrownteya](https://github.com/warwickbrownteya)
 
