@@ -43,7 +43,13 @@ Tech Stack:
 ## 🌱 Current Learning Goals
 1. Advancing information safety practices that make security a byproduct
 2. Designing resilient, humane systems with safe defaults and soft landings
-3. Exploring how safety-focused engineering reduces security risk
+3. Leaning into AI/ML usage and understanding so I'm not left behind as adversaries adopt it
+4. Exploring how safety-focused engineering reduces security risk
+
+## 🧠 Modeling & Reasoning
+- Semantic and ontological modeling, engineering, and reasoning
+- Advanced algebra for detection logic
+- Learning formal provers and Rete-based reasoning systems
 
 ## 📚 Featured Projects & Contributions
 
